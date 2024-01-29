@@ -9,6 +9,8 @@ public class car1 {
     }
     public void drive (){
         System.out.println("drive");
-        System.out.println("123");
+    }
+    public void openTheDoor(){
+        System.out.println("door is opened");
     }
 }
